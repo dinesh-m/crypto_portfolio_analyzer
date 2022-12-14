@@ -17,7 +17,7 @@ In the Jupyter Notebook, you may see the following key steps performed that are 
 ## Technologies
 
 This project leverages python 3.7.* with the following additional packages:
-* [Jupyter Notebook](https://jupyter.org/) - The main module of the Financial Planner is written in Jupyter Notebook.
+* [Jupyter Notebook](https://jupyter.org/) - The Crypto Portfolio Analyzer is written in the Jupyter Notebook.
 * [Conda](https://docs.conda.io/projects/conda/en/latest/) - Conda environment is recommended to have Pandas library and other dependencies pre-installed.
 
 **Required Libraries:**
